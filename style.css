@@ -2,6 +2,10 @@
 	background-color: black;
 	color: white;
 }
+.mainbody{
+	margin-top: 35px;
+	text-align: center;
+}
 
 .menu{
 	text-align: right;
