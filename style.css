@@ -1,0 +1,17 @@
+*{
+	background-color: black;
+	color: white;
+}
+
+.menu{
+	text-align: right;
+}
+
+p.link{
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+a{
+	color: white;
+}
